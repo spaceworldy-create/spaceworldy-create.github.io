@@ -56,3 +56,6 @@ footer {
     color: white;
     margin-top: 20px;
 }
+footer a {
+ color: #f5fff8;
+  text-decoration: none;
